@@ -1,0 +1,14 @@
+https://tortoisesvn.net/docs/release/TortoiseSVN_es/tsvn-dug-add.html
+http://www.tuxpan.com/fcatrin/files/cvs.html#AEN120                     -numero 2
+
+https://www.ecured.cu/Sistemas_de_control_de_versiones
+https://en.wikipedia.org/wiki/Version_control                 -num 1
+
+https://es.wikipedia.org/wiki/Programas_para_control_de_versiones            -lista de programas
+
+https://www.campusmvp.es/recursos/post/los-10-mandamientos-del-control-de-codigo-fuente.aspx
+
+https://www.muylinux.com/2008/09/19/sistemas-de-control-de-versiones/
+https://programminghistorian.org/es/lecciones/introduccion-control-versiones-github-desktop#control-de-versiones-y-texto-plano     -posible num 3
+
+http://basepath.com/aup/talks/SCCS-Slideshow.pdf
